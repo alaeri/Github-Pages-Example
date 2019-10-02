@@ -6,10 +6,10 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>BeiYuu</h1>
-        <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
+        <h1>Bonjour</h1>
+        <a href="http://alaeri.asia.wiki.org" target="_blank"><img src="http://alaeri.asia.wiki.org/favicon.ico" alt="" width="25"/></a>
+        <a href="https://www.linkedin.com/in/emmanuel-requier-b673786" target="_blank"><img src="http://linkedin.com/favicon.ico" alt="" width="22"/></a>
+        <a href="https://medium.com/@alaeri" target="_blank"><img src="https://medium.com/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
