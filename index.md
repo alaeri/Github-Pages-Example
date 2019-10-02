@@ -7,7 +7,7 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>Bonjour</h1>
-        <a href="http://alaeri.asia.wiki.org" target="_blank"><img src="http://alaeri.asia.wiki.org/favicon.ico" alt="" width="25"/></a>
+        <a href="http://alaeri.asia.wiki.org" target="_blank"><img src="https://htmlcss.fandom.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://www.linkedin.com/in/emmanuel-requier-b673786" target="_blank"><img src="http://linkedin.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://medium.com/@alaeri" target="_blank"><img src="https://medium.com/favicon.ico" alt="" width="22"/></a>
       </div>
